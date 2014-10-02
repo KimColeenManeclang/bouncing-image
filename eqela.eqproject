@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# sem1
+#
+
+projectname: sem1
+vendorid: com.mycompany
+mainmodule: com.mycompany.sem1
